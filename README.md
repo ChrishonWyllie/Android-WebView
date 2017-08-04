@@ -1,6 +1,7 @@
 # Android-WebView
 Quick example showcasing how to show a website without leaving the app.
 
+In the first image, my personal portfolio website url was loaded into the WebView. However, in the second example, inline html was passed into the WebView.
 
 <br />
 <br />
